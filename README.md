@@ -1,4 +1,5 @@
 # jazz magpie
+![logo](jazz-magpie-multi.png)
 Logo and trademarks for me and products made by me (Błażej Sewera - jazz)
 
 (Upcoming) Logo is free to use provided that it leads to me (jazz) or products associated with me.
